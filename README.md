@@ -3,3 +3,5 @@ This repository contains a university project I coded with a partner for 20465 S
 The project is a simulation of an assembler. The program is able to assemble a custom made assembly language defined the project's description. 
 
 The program can be used by running it with the example files supplied in the repository. 
+
+I have coded the following files: symbollist.c, symbolAdditionParse.c,dataStorage.c, codeStorage.c.
